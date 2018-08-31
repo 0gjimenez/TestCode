@@ -10,15 +10,16 @@ console.log(total);
 
 
 //new section on string variables
-let convo = "hello ";
+let convo = "hello";
 //set name to your name, first and last.
-let name;
+let name = "George";
 //add string convo and name together.
-const greeting =
-console.log(greeting);
+const greeting = (convo + name) 
+console.log(greeting); 
 
 //make your own message similar to what is above.
-let convo2;
-let
-const
-console.log();
+let convo2 = "what's";
+let convo3 = "up"
+let name2 = "Nate"
+const greeting2 = (convo2 + convo3)
+console.log(greeting2);
